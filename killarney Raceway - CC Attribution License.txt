@@ -1,0 +1,28 @@
+CC Attribution License
+
+A Creative Commons (CC) license is one of several public 
+copyright licenses that allow free distribution of an otherwise 
+copyrighted "work". 
+A CC license is used when an author wishes to grant other people 
+the right to share, use and develop a work that (the author) has 
+created. 
+CC offers flexibility to the author (for example, he can choose 
+to allow only non-commercial uses of a particular work) and 
+protects people who use or redistribute an author's work from 
+fear of copyright infringement as long as they comply with the 
+conditions specified in the license with which the author 
+distributes the work.
+
+The file killarney Raceway.dae in the Assets/Meshes 
+folder are licensed under CC BY 4.0 license.
+
+You can view a human-readable summary of the Legal Code here:
+https://creativecommons.org/licenses/by/4.0/
+
+Otherwise You can view the full text here:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+The killarney Raceway.dae file is the dae conversion
+of the killarney Raceway-ONLINE.3ds file downloaded from this link:
+https://sketchfab.com/3d-models/killarney-raceway-e5e0e679b28b464b90adff7a37d9dfb3
+
