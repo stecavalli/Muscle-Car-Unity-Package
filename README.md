@@ -1,4 +1,4 @@
-# Muscle-Car-Unity-Package
+# Muscle Car Unity Package
 Muscle Car Unity Package Documentation
 
 <h4><b>IMPORTANT</b></h4>
