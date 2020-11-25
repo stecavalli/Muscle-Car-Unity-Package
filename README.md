@@ -9,5 +9,6 @@ package <b>must</b> be imported.
 
 Read the <b>Muscle Car Demo.pdf</b> file above for more information.
 
-<h3><a href="https://stecavalli.altervista.org/">Visit the author's website</a></h3>
 <img src="https://raw.githubusercontent.com/stecavalliofficial/Muscle-Car-Unity-Package/main/Muscle%20Car%20-%20Race%20Track.jpg" alt="Muscle Car - Race Track">
+
+<h2><a href="https://stecavalli.altervista.org/">Visit the author's website</a></h2>
