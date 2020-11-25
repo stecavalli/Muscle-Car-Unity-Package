@@ -10,3 +10,4 @@ package <b>must</b> be imported.
 Read the <b>Muscle Car Demo.pdf</b> file above for more information.
 
 <h3><a href="https://stecavalli.altervista.org/">Visit the author's website</a></h3>
+<img src="https://miosito.it/miaImmagine.png" alt="Mia Immagine">
